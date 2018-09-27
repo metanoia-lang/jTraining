@@ -79,5 +79,6 @@ public class LinkedListTest {
         linkedListTest.mergeB2A(a, b);
         linkedListTest.removeSecondWord(b);
         linkedListTest.aRemoveB(a, b);
+
     }
 }
